@@ -1,0 +1,10 @@
+Output:
+------
+Format: <Member Name> booked <Class Name> at <Booking Time>
+
+Andy P booked Yoga Class at 2023-06-15T10:00
+Jenna K booked Yoga Class at 2023-06-15T10:00
+The class Yoga Class is full.
+Adrijan V booked Zumba Class at 2023-06-16T18:00
+Jenna K booked Zumba Class at 2023-06-16T18:00
+Invalid booking time: 2023-06-16T21:00. The class Zumba Class is scheduled from 2023-06-16T18:00 to 2023-06-16T19:00.

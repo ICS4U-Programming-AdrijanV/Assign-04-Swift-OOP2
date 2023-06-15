@@ -1,0 +1,11 @@
+register, Andy P, 1
+register, Jenna K, 2
+register, Adrijan V, 3
+schedule, Yoga Class, 2023-06-15T10:00, 2023-06-15T11:00, 2
+schedule, Zumba Class, 2023-06-16T18:00, 2023-06-16T19:00, 3
+book, 1, Yoga Class, 2023-06-15T10:00
+book, 2, Yoga Class, 2023-06-15T10:00
+book, 3, Yoga Class, 2023-06-15T10:00
+book, 3, Zumba Class, 2023-06-16T18:00
+book, 2, Zumba Class, 2023-06-16T18:00
+book, 1, Zumba Class, 2023-06-16T21:00
